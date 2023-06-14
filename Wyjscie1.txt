@@ -1,0 +1,13 @@
+Długość ciągu: 7
+Liczba zapytań: 5
+Ciąg:[1, 1, 3, 2, 3, 4, 3]
+Dla przedziału od: 1 ,do: 3
+Liderem jest: 1
+Dla przedziału od: 1 ,do: 4
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 3 ,do: 7
+Liderem jest: 3
+Dla przedziału od: 1 ,do: 7
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 6 ,do: 6
+Liderem jest: 4

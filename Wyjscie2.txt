@@ -1,0 +1,5 @@
+Długość ciągu: 1
+Liczba zapytań: 1
+Ciąg:[1]
+Dla przedziału od: 1 ,do: 1
+Liderem jest: 1

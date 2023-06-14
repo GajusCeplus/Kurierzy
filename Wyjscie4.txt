@@ -1,0 +1,23 @@
+Długość ciągu: 9
+Liczba zapytań: 10
+Ciąg:[1, 2, 3, 2, 1, 3, 3, 2, 5]
+Dla przedziału od: 1 ,do: 6
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 1 ,do: 4
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 2 ,do: 4
+Liderem jest: 2
+Dla przedziału od: 3 ,do: 7
+Liderem jest: 3
+Dla przedziału od: 1 ,do: 9
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 9 ,do: 9
+Liderem jest: 5
+Dla przedziału od: 6 ,do: 8
+Liderem jest: 3
+Dla przedziału od: 6 ,do: 9
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 5 ,do: 7
+Liderem jest: 3
+Dla przedziału od: 2 ,do: 7
+Liderem jest: 0 ---Brak lidera

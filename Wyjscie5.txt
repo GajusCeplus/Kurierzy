@@ -1,0 +1,203 @@
+Długość ciągu: 30
+Liczba zapytań: 100
+Ciąg:[1, 1, 1, 6, 6, 3, 1, 6, 8, 5, 3, 5, 7, 3, 3, 1, 3, 3, 1, 4, 5, 5, 5, 2, 5, 8, 6, 5, 7, 6]
+Dla przedziału od: 10 ,do: 14
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 27 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 17 ,do: 22
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 21 ,do: 25
+Liderem jest: 5
+Dla przedziału od: 15 ,do: 19
+Liderem jest: 3
+Dla przedziału od: 21 ,do: 26
+Liderem jest: 5
+Dla przedziału od: 27 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 6 ,do: 11
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 21 ,do: 26
+Liderem jest: 5
+Dla przedziału od: 10 ,do: 14
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 22 ,do: 28
+Liderem jest: 5
+Dla przedziału od: 16 ,do: 20
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 12 ,do: 17
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 11 ,do: 15
+Liderem jest: 3
+Dla przedziału od: 7 ,do: 13
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 17 ,do: 23
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 15 ,do: 21
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 12 ,do: 18
+Liderem jest: 3
+Dla przedziału od: 5 ,do: 10
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 26 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 17 ,do: 23
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 16 ,do: 21
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 12 ,do: 17
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 2 ,do: 6
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 1 ,do: 4
+Liderem jest: 1
+Dla przedziału od: 11 ,do: 17
+Liderem jest: 3
+Dla przedziału od: 7 ,do: 11
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 2 ,do: 6
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 27 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 26 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 27 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 6 ,do: 10
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 22 ,do: 27
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 20 ,do: 24
+Liderem jest: 5
+Dla przedziału od: 16 ,do: 22
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 2 ,do: 6
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 26 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 10 ,do: 16
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 10 ,do: 14
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 11 ,do: 16
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 20 ,do: 24
+Liderem jest: 5
+Dla przedziału od: 6 ,do: 11
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 10 ,do: 16
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 11 ,do: 17
+Liderem jest: 3
+Dla przedziału od: 1 ,do: 4
+Liderem jest: 1
+Dla przedziału od: 11 ,do: 15
+Liderem jest: 3
+Dla przedziału od: 15 ,do: 21
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 11 ,do: 15
+Liderem jest: 3
+Dla przedziału od: 5 ,do: 11
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 1 ,do: 5
+Liderem jest: 1
+Dla przedziału od: 16 ,do: 20
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 10 ,do: 15
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 25 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 12 ,do: 16
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 16 ,do: 22
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 27 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 6 ,do: 12
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 27 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 21 ,do: 27
+Liderem jest: 5
+Dla przedziału od: 21 ,do: 27
+Liderem jest: 5
+Dla przedziału od: 7 ,do: 13
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 15 ,do: 19
+Liderem jest: 3
+Dla przedziału od: 6 ,do: 12
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 11 ,do: 15
+Liderem jest: 3
+Dla przedziału od: 27 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 17 ,do: 22
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 1 ,do: 6
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 5 ,do: 11
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 7 ,do: 13
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 10 ,do: 16
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 10 ,do: 14
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 1 ,do: 5
+Liderem jest: 1
+Dla przedziału od: 27 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 17 ,do: 23
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 12 ,do: 16
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 12 ,do: 17
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 22 ,do: 27
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 6 ,do: 11
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 27 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 21 ,do: 27
+Liderem jest: 5
+Dla przedziału od: 2 ,do: 7
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 25 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 6 ,do: 10
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 6 ,do: 11
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 26 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 12 ,do: 17
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 15 ,do: 21
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 1 ,do: 4
+Liderem jest: 1
+Dla przedziału od: 26 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 5 ,do: 11
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 17 ,do: 23
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 20 ,do: 25
+Liderem jest: 5
+Dla przedziału od: 27 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 22 ,do: 28
+Liderem jest: 5
+Dla przedziału od: 26 ,do: 30
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 17 ,do: 21
+Liderem jest: 0 ---Brak lidera
+Dla przedziału od: 12 ,do: 18
+Liderem jest: 3
+Dla przedziału od: 22 ,do: 26
+Liderem jest: 5
+Dla przedziału od: 21 ,do: 25
+Liderem jest: 5
+Dla przedziału od: 10 ,do: 15
+Liderem jest: 0 ---Brak lidera
